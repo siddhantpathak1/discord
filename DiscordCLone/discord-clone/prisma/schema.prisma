@@ -7,7 +7,8 @@ datasource db {
   url = env("DATABASE_URL")
   relationMode = "prisma"
 }
-  model Profile {
+
+model Profile {
   id String @id @default(uuid())
   userId String @unique
   name String
@@ -151,4 +152,3 @@ model DirectMessage {
   @@index([memberId])
   @@index([conversationId])
 }
-
