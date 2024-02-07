@@ -147,12 +147,7 @@ Our enhanced version of JARVIS AI goes beyond the usual YouTube tutorials. Get r
 3. **Mayank Ahlawat**
   [<img src="https://img.icons8.com/ios-filled/30/000000/github.png"/>](https://github.com/MayankAhlawat9825)
 
-4. **Shivam Jaiswal**
-  [<img src="https://img.icons8.com/ios-filled/30/000000/github.png"/>](https://github.com/Shivam0192)
-
-5. **Rohit Murmu**
+4. **Rohit Murmu**
   [<img src="https://img.icons8.com/ios-filled/30/000000/github.png"/>](https://github.com/Rohit-Murmu)
 
-6. **Kunal Rajawat**
-  [<img src="https://img.icons8.com/ios-filled/30/000000/github.png"/>](https://github.com/kunalsingh0)
 
